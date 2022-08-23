@@ -1,0 +1,52 @@
+.page-header{
+    margin:0;
+    text-align:center;
+}
+div>a{
+    font-size:1.25em;
+}
+.dashboard{
+    text-align:center;
+    padding:5px;
+    padding-top: 20px;
+    font-size: 1.25em;
+    background-color: palevioletred;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+ul#hlist{
+    list-style: none;
+}
+
+ul#hlist li{
+    display: inline;
+    margin-left: 100px;
+}
+
+li>a{
+    color:pink;
+    margin:auto;
+    padding:5px;
+    text-decoration:none;
+}
+.active,a:hover{
+    background-color: plum;
+    color:black;
+}
+
+.navbar-default{
+    background-color: white;
+}
+
+.page-footer{
+    position:fixed;
+    width:100%;
+    bottom:0;
+    font-weight: bold;
+    text-align: right;
+    padding:5px;
+    font-size:1.25em;
+    border-radius: 5px;
+}
+
