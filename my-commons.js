@@ -3,7 +3,7 @@ var jpdbIRL='/api/irl';
 var jpdbIML='/api/iml';
 var empDBName='HR-DEPT-DB';
 var userRelationName="UserRel";
-var connToken="90939240|-31949294347911379|90942489	";
+var connToken="90939240|-31949294347911379|90942489";
 
 var myName,myStatus;
 var EmpId="id";
