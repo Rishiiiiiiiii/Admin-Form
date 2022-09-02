@@ -5,6 +5,7 @@ HR-Admin Dashboard
 This project includes multiple pages which are:
 
 #Logged-In Pages:
+
 1.Home Page
 2.Profile Page
 3.Add Employee Page
@@ -12,6 +13,7 @@ This project includes multiple pages which are:
 5.Logout Button
 
 #Logged-Out Pages:
+
 1.Registration Page
 2.Login Page
 3.Forgot Password
